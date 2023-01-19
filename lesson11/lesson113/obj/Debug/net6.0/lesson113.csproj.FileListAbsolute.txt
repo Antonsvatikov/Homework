@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\bin\Debug\net6.0\lesson113.exe
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\bin\Debug\net6.0\lesson113.deps.json
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\bin\Debug\net6.0\lesson113.runtimeconfig.json
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\bin\Debug\net6.0\lesson113.dll
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\bin\Debug\net6.0\lesson113.pdb
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.AssemblyInfo.cs
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.dll
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\refint\lesson113.dll
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.pdb
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\lesson113.genruntimeconfig.cache
+C:\Users\Антон\Desktop\git education\lesson11\lesson113\obj\Debug\net6.0\ref\lesson113.dll
